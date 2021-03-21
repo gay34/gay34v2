@@ -16,6 +16,7 @@ a:active.menu { color: #FF0000; text-decoration: none; }
 	left: 5%;
 	width: 100%;
 	margin: 0;
+    background: #675997;
 	}
 
 #menuh
@@ -24,6 +25,7 @@ a:active.menu { color: #FF0000; text-decoration: none; }
 	font-family: arial, helvetica, sans-serif;
 	width:100%;
 	margin-top: 0;
+    background: #675997;
 	}
 
 #menuh a.sub_option
@@ -35,7 +37,7 @@ a:active.menu { color: #FF0000; text-decoration: none; }
 #menuh a
 	{
 	text-align: center;
-	background: #ACE4A3;
+	background: #675997;
 	display:block;
 	white-space:nowrap;
     margin: 0;
