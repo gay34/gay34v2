@@ -70,7 +70,7 @@ $header_html
 	<tr>
 		<td>
 EOD;
-        include "themes/rule34v2/header.inc";
+        include "themes/gay34v2/header.inc";
         print <<<EOD
 		</td>
 		$head_block_html
@@ -94,16 +94,16 @@ EOD;
 
 		<footer>
 <span style="font-size: 12px;">
-    <a href="http://rule34.paheal.net/wiki/Terms%20of%20use">Terms of use</a>
+    <a href="/wiki/Terms%20of%20use">Terms of use</a>
     !!!
-    <a href="http://rule34.paheal.net/wiki/Privacy%20policy">Privacy policy</a>
+    <a href="/wiki/Privacy%20policy">Privacy policy</a>
     !!!
-    <a href="http://rule34.paheal.net/wiki/2257">18 U.S.C. &sect;2257</a><br />
+    <a href="/wiki/2257">18 U.S.C. &sect;2257</a><br />
 </span>
 <hr />
 <span style="font-size: 12px;">
-    BTC: <b>193gutWtgirF7js14ivcXfnfQgXv9n5BZo</b>
-    ETH: <b>0x68B88a00e69Bde88E9db1b9fC10b8011226e26aF</b>
+    BTC: <b>put your btc address here</b>
+    ETH: <b>put your eth address here</b>
 </span>
 <hr />
 <br>
