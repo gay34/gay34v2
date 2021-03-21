@@ -53,7 +53,7 @@
 		<li><a href="#" class="top_parent">Community &#9660;</a>
 		<ul>
 			<!--<li><a href="http://forum.your-domain.com" class="sub_option">Forum</a></li>-->
-			<li><a href="/wiki/friends" class="parent">Friends of paheal</a>
+			<li><a href="/wiki/friends" class="parent">Friends of gay34</a>
 			<li><a href="/wiki/DNP" class="parent">DNP List</a>
 
 			</li>
