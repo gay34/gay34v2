@@ -60,11 +60,9 @@ EOD
 			$counter_html
 			<div class='space' id='foot'>
 
-<!-- JuicyAds v3.1 -->
-<script type='text/javascript' data-cfasync='false' async src='https://poweredby.jads.co/js/jads.js'></script>
-<ins id='825625' data-width='908' data-height='270'></ins>
-<script type='text/javascript' data-cfasync='false' async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':825625});</script>
-<!--JuicyAds END-->
+<!-- Home Page Ad segment START -->
+
+<!-- Home Page Ad segment END-->
 
 				<small><small>
 				$contact_link Serving $num_comma posts &ndash;
