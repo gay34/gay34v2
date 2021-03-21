@@ -1,7 +1,7 @@
 <table class="headbox">
 	<tr>
 		<td colspan="4" id="big-logo">
-			<a class="vis-desktop" href="/post/list"><img alt="logo" src="/themes/rule34v2/rule34_logo_top.png" style="width: 240px; height: 104px;"/></a>
+			<a class="vis-desktop" href="/post/list"><img alt="logo" src="/themes/gay34v2/rule34_logo_top.png" style="width: 240px; height: 104px;"/></a>
 		</td>
 	</tr>
 
@@ -11,7 +11,7 @@
 				<a style="font-size: 2em;" onclick="toggleNav();">&nbsp;Sidebar&nbsp;</a>
 			</td>
 			<td id="mini-logo">
-				<a class="vis-mobile" href="/post/list"><img alt="logo" src="/themes/rule34v2/rule34_logo_top.png" style="height: 34px;"/></a>
+				<a class="vis-mobile" href="/post/list"><img alt="logo" src="/themes/gay34v2/rule34_logo_top.png" style="height: 34px;"/></a>
 			</td>
 			<td>
 				<input name='search' size="45" type='text' placeholder='Search' autocomplete='off' class='autocomplete_tags' value="<?=$query;?>"/>
